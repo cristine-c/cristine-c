@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hello! My name is Cristine Chen, and I am an Electrical Engineering and Computer Science major at MIT.
 <!--
 **cristine-c/cristine-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
